@@ -2,6 +2,8 @@
 
 Application to run terminal commands on a linux device through a usb cable and [adk-serial-driver](https://github.com/Phasip/adk-serial-driver)
 
+Compiled APK can be found [here](https://github.com/Phasip/adk-serial-app/releases/download/APK/adk-serial-app-release.apk)
+
 =======
 Communicates through usb with a linux device that has loaded the adk-serial-driver module.
 
