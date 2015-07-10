@@ -1,6 +1,5 @@
 # adk-serial-app
-Application to run terminal commands on a linux device through a usb cable and adk-serial-driver
-
+Application to run terminal commands on a linux device through a usb cable and [adk-serial-driver](https://github.com/Phasip/adk-serial-driver)
 =======
 Communicates through usb with a linux device that has loaded the adk-serial-driver module.
 
