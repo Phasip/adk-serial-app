@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usb Terminal</string>
+    <string name="tost_text">The app should launch automatically when connected to a correct usb device.</string>
+</resources>
